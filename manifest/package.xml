@@ -12,6 +12,15 @@
     <members>*</members>
     <name>CustomObject</name>
 </types>
+<types>
+      
+        <members>*</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+               <members>*</members>
+        <name>PermissionSet</name>
+    </types>
    <!-- <types>
         <members>*</members>
         <name>ApexComponent</name>
