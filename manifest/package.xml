@@ -4,6 +4,7 @@
         <members>DemokT</members>
         <name>ApexClass</name>
     </types>
+    
    <!--  <types>
         <members>*</members>    
         <name>ApexTrigger</name>
