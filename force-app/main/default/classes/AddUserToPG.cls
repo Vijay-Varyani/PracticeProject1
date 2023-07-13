@@ -6,7 +6,7 @@ public class AddUserToPG {
         Group grp=[Select Id,Name from Group where DeveloperName='All_Users'];
         
          
-        
+        //added 
         List<User> userUpdate=[Select Id,Name from User where id in:userIds];
        // List<CollaborationGroup> cg=[Select Id,Name from CollaborationGroup  where id in:userIds];
         if(userUpdate.size()>0){
